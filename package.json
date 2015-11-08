@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "kue": "^0.9.5"
+    "kue": "^0.9.5",
+    "twitter": "^1.2.5"
   }
 }
